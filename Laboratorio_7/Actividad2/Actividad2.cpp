@@ -1,4 +1,4 @@
-#include <stdio.h>\
+#include <stdio.h>
 
 int numero1 , numero2, contador = 0;
 
