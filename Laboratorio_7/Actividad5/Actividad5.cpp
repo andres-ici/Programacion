@@ -1,4 +1,4 @@
-#include <stdio.h>\
+#include <stdio.h>
 
 int entradaNum, sumatoria = 0;
 
