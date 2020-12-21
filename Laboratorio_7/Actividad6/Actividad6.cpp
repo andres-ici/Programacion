@@ -1,4 +1,4 @@
-#include <stdio.h>\
+#include <stdio.h>
 
 int numero1 = 0 , numero2 = 1 , cantidad, suma;
 
